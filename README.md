@@ -1,20 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=200&section=header&text=Architecting%20Intelligence&fontSize=60&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00d2ff&height=200&section=header&text=NEURAL%20ARCHITECT&fontSize=50&animation=fadeIn&fontAlignY=40" width="100%" />
+
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR0amM1M2Z4bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxx137T80PC/giphy.gif" width="400" />
 </div>
 
 <div align="center">
-  <h3>🧠 Neural Architect | 🌌 Spatial Designer</h3>
-  <p>Fusing Deep Learning with 3D realities. Building autonomous entities from the terminal.</p>
+  <h1>🌌 Spatial Designer & AI Builder</h1>
+  <p><b>Fusing Deep Learning with 3D realities. Architecting autonomous entities from the terminal.</b></p>
+  
+  <img src="https://img.shields.io/badge/Vibe-Tokyo%20Night-7aa2f7?style=for-the-badge&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/Editor-LazyVim-57A143?style=for-the-badge&labelColor=1a1b26&logo=neovim" />
 </div>
 
 ---
 
 ### ⚡ The Core
-> **Building brains. Designing worlds.** > I specialize in the absolute fusion of **Deep Learning** and **3D environments**. My work focuses on moving beyond static models to craft intelligent, autonomous entities powered by **LLMs** and **Reinforcement Learning**. Operating strictly from the terminal, I engineer the bridge between mathematical logic and visual rendering.
-
-- 🤖 **Autonomous Entities:** Context-aware agents driven by LLMs.
-- 🧠 **Neural Systems:** Architecting complex RL/DL networks from scratch.
-- 🌌 **Spatial AI:** Bridging the gap between PyTorch and Blender.
+> **Building brains. Designing worlds.** > I specialize in the absolute fusion of **Deep Learning** and **3D environments**. My work focuses on moving beyond static models to craft intelligent, autonomous entities powered by **LLMs** and **Reinforcement Learning**.
 
 ---
 
@@ -23,26 +24,27 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
-<br />
-
 <div align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas" />
+  <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn" />
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv" />
 </div>
 
 ---
 
 ### 📊 System Diagnostics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zacx&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="Zacx GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zacx&theme=tokyonight&layout=compact&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zacx&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00d2ff&icon_color=00d2ff" height="180em" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zacx&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=00d2ff" height="180em" />
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zacx&theme=tokyonight&hide_border=true&background=0D1117&ring=00d2ff&fire=00d2ff" width="80%" />
 </div>
 
 ---
@@ -64,7 +66,7 @@
 
 <div align="center">
   <a href="https://buymeacoffee.com/zacx">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+    <img src="https://img.shields.io/badge/Fuel_the_Machine-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </div>
 
