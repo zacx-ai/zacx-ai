@@ -9,7 +9,7 @@
   ══════════════════════════════════════════
 -->
 
-<img src="./assets/aizen.gif" width="480px" alt=""/>
+<img src=".assets/my_profo.gif" width="480px" alt=""/>
 
 <br/>
 <br/>
