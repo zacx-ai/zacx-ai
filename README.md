@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/assets/changed_my_profo.gif" width="70%" style="border-radius: 4px;" alt="Zacx Visual Identity"/>
+<img src="/assets/changed_my_profo.gif" width="70%" style="border-radius: 10px;" alt="Zacx Visual Identity"/>
 
 <br/>
 
